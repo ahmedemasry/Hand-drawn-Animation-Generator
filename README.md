@@ -6,8 +6,9 @@ A personal Java project to generate hand-drawn animations which called Whiteboar
 
 
 ### Input
-![image](https://user-images.githubusercontent.com/12022095/194774017-23066d56-4375-4397-aac5-3d0b9d3f2f3f.png)
-![image](https://user-images.githubusercontent.com/12022095/194774044-c0d07fa4-0b78-436e-9222-74b7f0eddc9e.png)
+
+![j](https://user-images.githubusercontent.com/12022095/194774386-63986bdf-18c0-424e-af5a-51263f8ce58d.jpg)
+
 
 ### Output
 ![image](https://user-images.githubusercontent.com/12022095/194774088-dccd37fb-f220-4afc-a5e8-440a4d47bf41.png)
