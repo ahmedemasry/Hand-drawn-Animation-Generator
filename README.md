@@ -2,7 +2,7 @@
 ## Overview
 A personal Java project to generate hand-drawn animations which called Whiteboard animation, given a png image. I used the DFS Algorithm to track hand-like animations, and math to provide many options for the animator.
 ## Demo
-[Check this youtube video for a demo](https://youtu.be/bK2eDbYNHnY?t=34)
+### [Check this youtube video for a demo](https://youtu.be/bK2eDbYNHnY?t=34)
 
 
 ### Input
